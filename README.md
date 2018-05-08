@@ -10,3 +10,5 @@ A project of Udacity's Full-Stack-Web-Developer Nanodegree.
 <br>If everything goes well, you can simply input python log_analysis_api.py in your terminal to run it
 
 <b>It takes a few minutes to run the program because there are so many datas to calculate.</b>
+
+<img src='https://github.com/Sebastianwyh/Log_Analysis_Project/blob/master/Output%20Example.png?raw=true' hright=50% width=50%/>
