@@ -83,6 +83,7 @@ def days_more_than_1_errors():
         errors = str(i[0]) + ' ' + str(i[1]) + "%" + " errors"
         print(errors)
 
+
 # Print while running the program
 print('Wait a moment...\n')
 three_top_articles()
