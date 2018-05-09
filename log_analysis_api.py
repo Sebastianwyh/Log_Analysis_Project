@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import psycopg2
 
 DBNAME = "news"
@@ -12,6 +14,7 @@ def run_query(query):
     rows = c.fetchall()
     db.close()
     return rows
+
 
 # Build Query1
 query1 = "select title,count(title) as views from articles,log "\
